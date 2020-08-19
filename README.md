@@ -8,12 +8,12 @@
 
 - 🔭 I’m currently working on exploring interesting things to learn in computer science fields and upgrading my skills.
 - 🌱 I’m currently learning data science.
-- I want to build a career in Software Development and/or Data Science. 
-- 🤔 I’m looking for help with 6-months internship opportunities and full-time jobs starting from 2021. 
+- 💼 I want to build a career in Software Development and/or Data Science. 
+- 🤔 I’m looking for help with 6-months internship opportunities and full-time jobs starting from 2021. I am willing to work in almost any corner of the world.
 - 💬 Ask me about food, travel, coding.
 - 📫 How to reach me: drop an email at riyag2803@gmail.com
 -	👩‍💻 Languages: Python, C/C++, Java, R
-- Human Languages: Hindi, English
+- ☀️ Human Languages: Hindi, English
 - 😄 Pronouns: Minnie
 - ⚡ Fun fact: I am a foodie and I love to read and write.
 
