@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - Medium: https://medium.com/@riyag283
 - Leetcode: https://leetcode.com/riya_gupta28/
 - Hackerearth: https://www.hackerearth.com/@riyag2803
+- Kaggle: https://www.kaggle.com/riyagupta283
