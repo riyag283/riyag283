@@ -22,6 +22,7 @@
 - Medium: https://medium.com/@riyag283
 - Leetcode: https://leetcode.com/riya_gupta28/
 - Hackerearth: https://www.hackerearth.com/@riyag2803
+- Codechef: https://www.codechef.com/users/riyagupta28
 - Kaggle: https://www.kaggle.com/riyagupta283
 
 <!--
