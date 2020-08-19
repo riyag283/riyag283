@@ -1,12 +1,12 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=riyag283&color=blueviolet)
-#### I am Riya, final year student (Batch 2021) at Indian Institute of Information Technology, Dharwad, currently pursuing B.Tech. in Computer Science and Engineering.
+
+#### I am Riya, final year student (Batch 2021) at Indian Institute of Information Technology, Dharwad, currently pursuing B.Tech. in Computer Science and Engineering. 
 
 <!--
 **riyag283/riyag283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
--->
-##
+- 😄 Pronouns: Minnie
+- ⚡ Fun fact: I am a foodie and I love to read and write.
 - 🔭 I’m currently working on exploring interesting things to learn in computer science fields and upgrading my skills.
 - 🌱 I’m currently learning data science.
 - 💼 I want to build a career in Software Development and/or Data Science. 
@@ -15,9 +15,7 @@
 - 📫 How to reach me: drop an email at riyag2803@gmail.com
 -	👩‍💻 Languages: Python, C/C++, Java, R
 - ☀️ Human Languages: Hindi, English
-- 😄 Pronouns: Minnie
-- ⚡ Fun fact: I am a foodie and I love to read and write.
-
+-->
 
 ## Find me around the web:
 - LinkedIn: https://www.linkedin.com/in/riya-gupta-0b8174162/
@@ -26,4 +24,7 @@
 - Hackerearth: https://www.hackerearth.com/@riyag2803
 - Kaggle: https://www.kaggle.com/riyagupta283
 
+<!--
 ![Riya's github stats](https://github-readme-stats.vercel.app/api?username=riyag283&show_icons=true&theme=cobalt)
+![](https://komarev.com/ghpvc/?username=riyag283&color=blueviolet)
+-->
