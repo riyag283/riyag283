@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Riya Gupta, final year (Batch 2021) student at Indian Institute of Information Technology, Dharwad, currently pursuing B.Tech. in Computer Science and Engineering.
+### I am Riya Gupta, final year student (Batch 2021) at Indian Institute of Information Technology, Dharwad, currently pursuing B.Tech. in Computer Science and Engineering.
 
 <!--
 **riyag283/riyag283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
