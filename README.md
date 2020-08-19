@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=riyag283&color=blueviolet)
-### I am Riya Gupta, final year student (Batch 2021) at Indian Institute of Information Technology, Dharwad, currently pursuing B.Tech. in Computer Science and Engineering.
+#### I am Riya, final year student (Batch 2021) at Indian Institute of Information Technology, Dharwad, currently pursuing B.Tech. in Computer Science and Engineering.
 
 <!--
 **riyag283/riyag283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
