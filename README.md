@@ -25,4 +25,4 @@
 - Hackerearth: https://www.hackerearth.com/@riyag2803
 - Kaggle: https://www.kaggle.com/riyagupta283
 
-![Riya's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Riya's github stats](https://github-readme-stats.vercel.app/api?username=riyag283&show_icons=true&theme=radical)
