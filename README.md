@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Find me around the web:
+- LinkedIn: https://www.linkedin.com/in/riya-gupta-0b8174162/
+- Medium: https://medium.com/@riyag283
+- Leetcode: https://leetcode.com/riya_gupta28/
+- Hackerearth: https://www.hackerearth.com/@riyag2803
