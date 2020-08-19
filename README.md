@@ -6,8 +6,9 @@
 - 👯 I’m looking to collaborate on ...
 -->
 
-- 🔭 I’m currently working on exploring interesting things to learn in computer science field and upgrading my skills.
+- 🔭 I’m currently working on exploring interesting things to learn in computer science fields and upgrading my skills.
 - 🌱 I’m currently learning data science.
+- I want to build a career in Software Development and/or Data Science. 
 - 🤔 I’m looking for help with 6-months internship opportunities and full-time jobs starting from 2021. 
 - 💬 Ask me about food, travel, coding.
 - 📫 How to reach me: drop an email at riyag2803@gmail.com
