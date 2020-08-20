@@ -4,7 +4,7 @@
 
 <!--
 **riyag283/riyag283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...  
 - 😄 Pronouns: Minnie
 - ⚡ Fun fact: I am a foodie and I love to read and write.
 - 🔭 I’m currently working on exploring interesting things to learn in computer science fields and upgrading my skills.
