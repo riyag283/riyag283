@@ -1,6 +1,6 @@
 ### Hi there 👋 👩‍💻
 
-#### I am Riya, final year student (Batch 2021) at IIIT-Dharwad pursuing B.Tech. in CSE and working as a Machine Learning Intern at Legex. Love to code, develop, read, write, paint, travel, sleep and eat. Passionate about learning interesting new things in the fields of Computer Science and spreading greenery on my GitHub profile.
+#### I am Riya, final year student (Batch 2021) at IIIT-Dharwad pursuing B.Tech. in CSE and working as a Machine Learning Intern at Legex. Love to code, develop, read, write, paint, travel, sleep and eat. Passionate about learning interesting things in the fields of Computer Science and spreading greenery on my GitHub profile.
 
 <!--
 **riyag283/riyag283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
